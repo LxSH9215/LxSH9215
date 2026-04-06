@@ -41,3 +41,31 @@ class AIDeveloper:
             "AI/ML": ["OpenCV", "DeepFace", "Data Modeling"],
             "Cloud/Other": ["AWS", "Stock Market Analysis"]
         }
+🎯 Quick Stats & Focus
+  📱 AI Projects: Music Player, Code Visualizer
+  🏆 Achievements: National Semi-Finalist (TATA Imagination Challenge 2024)
+  👥 Mentorship: Core Member, mentored 15+ developers
+  🔥 Current Focus: Developing AI-powered applications, exploring facial emotion recognition, and deepening AWS knowledge.
+
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Tech Arsenal
+<p align="center">
+<strong>Languages & Frameworks</strong>
+
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c" alt="Languages" />
+
+
+
+<strong>AI, Data & Cloud</strong>
+
+
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,aws,mysql" alt="Cloud" />
+
+
+
+<strong>Development Tools</strong>
+
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,docker" alt="Tools" />
+</p>
