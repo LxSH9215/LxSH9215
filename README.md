@@ -1,16 +1,43 @@
-## Hi there 👋
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> Hey there! I'm Lakshay Saini
 
-<!--
-**LxSH9215/LxSH9215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=AI+%26+ML+Engineer;Computer+Vision+%7C+NLP;Building+the+Future+with+Code" alt="Typing Animation" />
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  
+<img src="https://img.shields.io/badge/AI_Engineer-3DDC84?style=for-the-badge&logo=python&logoColor=white&labelColor=black" alt="AI Engineer"/>
+<img src="https://img.shields.io/badge/Computer_Vision-7F52FF?style=for-the-badge&logo=opencv&logoColor=white&labelColor=black" alt="Computer Vision"/>
+<img src="https://img.shields.io/badge/Machine_Learning-00D4AA?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=black" alt="Machine Learning"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<br>
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="36"> About Me
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+```python
+class AIDeveloper:
+    def __init__(self):
+        self.name = "Lakshay Saini"
+        self.role = "AI & ML Enthusiast"
+        self.location = "📍 New Delhi, India"
+        self.education = "🎓 B.Tech CSE @ VIT Bhopal"
+        
+        self.currently_exploring = [
+            "🚀 Reinforcement Learning",
+            "🤖 Computer Vision & DeepFace", 
+            "🏗️ Natural Language Processing (NLP)",
+            "📊 Data Mining & Warehousing"
+        ]
+        
+        self.expertise = {
+            "Languages": ["Python", "C++", "Java"],
+            "AI/ML": ["OpenCV", "DeepFace", "Data Modeling"],
+            "Cloud/Other": ["AWS", "Stock Market Analysis"]
+        }
